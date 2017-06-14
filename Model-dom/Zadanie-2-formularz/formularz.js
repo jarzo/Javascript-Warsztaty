@@ -13,8 +13,8 @@ function pobierzImie(event) {
 }
 
 
-function wyswietlWK() {
-	console.log(fname);
-	console.log(lname);
-}
-var form = document.getElementById('przycisk');
+//function wyswietlWK() {
+//	console.log(fname);
+//	console.log(lname);
+//}
+//var form = document.getElementById('przycisk');
